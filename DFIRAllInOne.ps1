@@ -1,8 +1,4 @@
-Here’s your complete, deployment-ready PowerShell script: `DFIR-Toolkit.ps1`. It performs deep forensic triage, runs automatically every night at midnight, and sends its output to `http://127.0.0.1/uploads`.
-
----
-
-🧰 DFIR-Toolkit.ps1 — Full Script
+DFIR-Toolkit.ps1 — Full Script
 
 <#
 .SYNOPSIS
